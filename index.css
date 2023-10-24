@@ -1,3 +1,14 @@
 body {
     margin: 0px;
 }
+
+#musiciansContainer {
+    display: flex;
+    background-color: red;
+    flex-direction: column;
+    height: 100vh
+}
+
+.musicianDiv {
+    margin: 10px;
+}
